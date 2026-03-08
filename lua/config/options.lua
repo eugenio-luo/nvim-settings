@@ -9,4 +9,4 @@ vim.g.autoformat = false
 
 vim.diagnostic.config({ virtual_text = false })
 
-vim.g.maplocalleader = ","
+vim.g.mapleader = ","
